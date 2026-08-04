@@ -106,6 +106,12 @@ object ShounakPatra {
 
 ### 🎮 [Vocex-Run — Voice-Controlled Android Game](https://github.com/ShounakPatra/vocex-run)
 
+<p align="center">
+  <a href="https://github.com/ShounakPatra/vocex-run/releases/download/v5.1/VocexRun-v5.1-stable.apk" title="Download Vocex Run v5.1 APK">
+    <img src="https://img.shields.io/badge/⬇%20%20Download%20Vocex%20Run%20v5.1%20APK-34C759?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" height="52" />
+  </a>
+</p>
+
 > **Vocex-Run** is an interactive Android game where live microphone loudness dynamic analysis controls character actions and movement in real time.
 
 - 🎤 **Voice Dynamics:** Real-time microphone input pitch & amplitude tracking.

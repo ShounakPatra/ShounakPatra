@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=7C3AED&text=Shounak%20Patra&fontSize=42&desc=On-Device%20AI%20%7C%20Android%20Systems%20Engineer&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=7C3AED&text=Shounak%20Patra&fontColor=ffffff&fontSize=42" width="100%" alt="Header Banner" />
 
 <br/>
 
 <a href="https://github.com/ShounakPatra">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=60&lines=On-Device+AI+%2B+Android+Systems+Engineer;Creator+of+Solus+-+100%25+Offline+Private+AI;Creator+of+Vocex-Run+-+Voice-Controlled+Game;Architecting+Low-Latency+Edge+ML+Runtimes" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=On-Device+AI+%2B+Android+Systems+Engineer;Creator+of+Solus+-+100%25+Offline+AI;Creator+of+Vocex-Run+-+Voice+Runner;Building+Edge+ML+%26+Native+Runtimes" alt="Typing Banner" />
 </a>
 
 <br/><br/>

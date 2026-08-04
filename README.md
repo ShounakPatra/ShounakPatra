@@ -2,10 +2,10 @@
 
 <!-- Animated Header Typing Banner -->
 <a href="https://github.com/ShounakPatra">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+%F0%9F%90%A7+I'm+Shounak+Patra;Android+App+%26+Game+Developer;Creator+of+Solus+-+On-Device+Private+AI;Creator+of+Vocex-Run+-+Voice-Controlled+Game" alt="Shounak Patra Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=720&height=70&lines=Hi+there!+%F0%9F%90%A7+I'm+Shounak+Patra;On-Device+AI+%2B+Android+Systems+Engineer;Creator+of+Solus+-+100%25+Offline+Private+AI;Creator+of+Vocex-Run+-+Voice-Controlled+Game" alt="Shounak Patra Typing Header" />
 </a>
 
-<h3>Android App & Game Developer • On-Device AI Systems • Audio-Driven Interactive Games</h3>
+<h3>On-Device AI & Systems Engineer • Android Native (C++/JNI) • Real-Time Voice DSP</h3>
 
 <p align="center">
   <a href="https://github.com/ShounakPatra">
@@ -128,13 +128,13 @@ object ShounakPatra {
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShounakPatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shounak Patra's GitHub Stats" width="460" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShounakPatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shounak Patra's GitHub Stats" width="460" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShounakPatra&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell" alt="Top Languages" width="380" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShounakPatra&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell" alt="Top Languages" width="380" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShounakPatra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="850" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShounakPatra&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="850" />
 </p>
 
 </div>

@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/ShounakPatra">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=On-Device+ML%2FAI+Engineer;Creator+of+Solus+-+100%25+Offline+AI;Creator+of+Vocex-Run+-+Voice+Runner;Architecting+Edge+ML+%26+Mobile+LLMs" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=AI+%2F+ML+Engineer;Creator+of+Solus+-+100%25+Offline+AI;Creator+of+Vocex-Run+-+Voice+Runner;Building+Edge+AI+%26+Mobile+LLMs" alt="Typing Banner" />
 </a>
 
 <br/><br/>
@@ -42,11 +42,11 @@
 
 # About Me
 
-I am an **On-Device ML/AI Engineer** specializing in **Mobile AI Acceleration**, **Android Native Systems (C++/NDK)**, and **High-Performance Edge Runtimes**. My engineering focus revolves around executing large language models (LLMs) and computer vision runtimes 100% locally on edge devices with zero cloud telemetry, low RAM footprints, and real-time inference latency.
+I am an **AI / ML Engineer** specializing in **On-Device Machine Learning**, **Android Systems (C++/NDK)**, and **High-Performance Edge Runtimes**. My engineering focus revolves around executing large language models (LLMs) and computer vision runtimes 100% locally on edge devices with zero cloud telemetry, low RAM footprints, and real-time inference latency.
 
 ### Core Competencies
 
-- **On-Device ML / AI Engineering:** Deep integration with LiteRT (TFLite), MediaPipe GenAI, and native `llama.cpp` runtimes for quantization, NPU/GPU hardware acceleration, and dynamic context windows.
+- **AI / ML Engineering:** Deep integration with LiteRT (TFLite), MediaPipe GenAI, and native `llama.cpp` runtimes for quantization, NPU/GPU hardware acceleration, and dynamic context windows.
 - **Software Systems Engineering:** Production-grade Kotlin, C++20, JNI bridges, CMake cross-compilation, and memory-safe Android NDK development.
 - **Product & UI Engineering:** Modern Jetpack Compose design systems, real-time Haze glassmorphism blur effects, custom graphics rendering, and gesture navigation.
 - **Interactive Audio Computing:** Low-latency real-time DSP, pitch & amplitude dynamic tracking, and hands-free voice interface engines.
@@ -153,7 +153,7 @@ Vocex-Run extracts real-time amplitude and pitch features from live microphone b
 
 # Experience
 
-### Independent On-Device ML/AI Engineer
+### Independent AI / ML Engineer
 **Self-Employed / Open Source Contributor** • *2025 — Present*
 
 Architecting, developing, and deploying high-performance native Android applications and AI runtimes.

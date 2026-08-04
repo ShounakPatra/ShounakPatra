@@ -254,7 +254,9 @@ Architecting, developing, and deploying high-performance native Android applicat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShounakPatra&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/7C3AED/ShounakPatra" width="100%" alt="Shounak Patra's 12-Month GitHub Contribution Calendar with Months and Days" />
+</p>
 
 </div>
 

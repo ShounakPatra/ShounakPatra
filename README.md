@@ -2,7 +2,7 @@
 
 <!-- Animated Header Typing Banner -->
 <a href="https://github.com/ShounakPatra">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=720&height=70&lines=Hi+there!+%F0%9F%90%A7+I'm+Shounak+Patra;On-Device+AI+%2B+Android+Systems+Engineer;Creator+of+Solus+-+100%25+Offline+Private+AI;Creator+of+Vocex-Run+-+Voice-Controlled+Game" alt="Shounak Patra Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&height=70&lines=Hi+there!+%F0%9F%90%A7+I'm+Shounak+Patra;On-Device+AI+%2B+Android+Systems+Engineer;Creator+of+Solus+-+100%25+Offline+Private+AI;Creator+of+Vocex-Run+-+Voice-Controlled+Game" alt="Shounak Patra Typing Header" />
 </a>
 
 <h3>On-Device AI & Systems Engineer • Android Native (C++/JNI) • Real-Time Voice DSP</h3>
@@ -21,11 +21,13 @@
 
 ---
 
-## ⚡ About Me
+# 💼 Engineering Journey
+
+> *Building privacy-first, high-performance Android applications that combine Generative AI, native C++/JNI systems programming, and real-time computing.*
 
 ```kotlin
 object ShounakPatra {
-    val role = "Android App & Interactive Game Developer"
+    val role = "On-Device AI & Android Systems Engineer"
     val primaryFocus = listOf("On-Device LLM Inference", "Voice-Controlled Games", "Jetpack Compose Glass UI")
     val featuredProjects = listOf(
         "Solus — Private local AI running 100% offline on Android",
@@ -34,16 +36,10 @@ object ShounakPatra {
     val coreTech = listOf("Kotlin", "Android SDK / NDK", "LiteRT / MediaPipe / llama.cpp", "Real-Time Audio Processing")
     
     fun getPhilosophy(): String {
-        return "Complete Privacy • Interactive Experiences • On-Device Neural Performance"
+        return "Complete Privacy • Zero Telemetry • On-Device Neural Performance"
     }
 }
 ```
-
-- 🚀 **Featured Projects:**
-  - **[Solus](https://github.com/ShounakPatra/Solus)** — Private, local AI assistant running 100% offline on Android with LiteRT, MediaPipe GenAI, llama.cpp JNI, and Haze glassmorphism UI.
-  - **[Vocex-Run](https://github.com/ShounakPatra/vocex-run)** — Voice-controlled Android game where microphone volume dynamics control character movement in real time.
-- 🔬 **Specializations:** On-Device AI Acceleration (NPU/GPU/CPU), Native C++/JNI bindings, Real-Time Audio DSP, Jetpack Compose glass design systems, and memory-optimized LLM execution.
-- 💬 **Ask Me About:** Android Development, Audio-Driven Game Dynamics, MediaPipe GenAI, LiteRT-LM, Compose Haze blur effects, and Android NDK.
 
 ---
 
@@ -88,13 +84,17 @@ object ShounakPatra {
 
 ---
 
-## 🌟 Featured Projects Spotlight
+# 🌍 Featured Open Source Projects
 
 <div align="center">
 
 ### 🤖 [Solus — On-Device Private AI Assistant](https://github.com/ShounakPatra/Solus)
 
-[![Solus Banner](https://raw.githubusercontent.com/ShounakPatra/Solus/main/docs/assets/download-solus-apk.svg)](https://github.com/ShounakPatra/Solus)
+<p align="center">
+  <a href="https://github.com/ShounakPatra/Solus/releases/download/v1.5.0/app-release.apk" title="Download Solus v1.5.0 APK">
+    <img src="https://raw.githubusercontent.com/ShounakPatra/Solus/main/docs/assets/download-solus-apk.svg" width="360" alt="Download Solus APK" />
+  </a>
+</p>
 
 > **Solus** is an open-source, 100% offline Android application that runs state-of-the-art Generative AI models (DeepSeek R1, Gemma 3, Qwen 2.5, Llama 3) directly on your device with zero cloud tracking.
 
@@ -108,7 +108,7 @@ object ShounakPatra {
 
 <p align="center">
   <a href="https://github.com/ShounakPatra/vocex-run/releases/download/v5.1/VocexRun-v5.1-stable.apk" title="Download Vocex Run v5.1 APK">
-    <img src="https://img.shields.io/badge/⬇%20%20Download%20Vocex%20Run%20v5.1%20APK-34C759?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" height="52" />
+    <img src="https://img.shields.io/badge/⬇%20%20Download%20Vocex%20Run%20v5.1%20APK-34C759?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" height="52" alt="Download Vocex Run APK" />
   </a>
 </p>
 
@@ -121,11 +121,64 @@ object ShounakPatra {
 
 ---
 
-## 📊 GitHub Analytics & Activity
+# 📌 Engineering Matrix
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+- Local LLM inference (DeepSeek, Gemma, Qwen)
+- Edge AI runtime optimization
+- LiteRT / MediaPipe GenAI integration
+- Mobile GGUF quantization
+- 100% offline AI architecture
+
+</td>
+<td width="50%">
+
+### 📱 Android Engineering
+- Kotlin & Jetpack Compose UI
+- Material 3 Glassmorphism design
+- Android SDK & NDK
+- Modern Android Architecture
+- Custom Canvas & Haze blur effects
+
+</td>
+</tr>
+<tr>
+<td>
+
+### ⚙️ Systems Programming
+- Native C++ & CMake build system
+- JNI cross-language bridges
+- On-device NPU/GPU/CPU allocation
+- Memory profiling & thermal guard
+- Zero-telemetry local storage
+
+</td>
+<td>
+
+### 🎤 Interactive Computing
+- Voice & pitch analysis
+- Real-time audio DSP
+- Low-latency input pipelines
+- Hands-free alternative interaction
+- Dynamic game physics engines
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<br/>
+> **Live open-source statistics, code metrics, and activity graph.**
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShounakPatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shounak Patra's GitHub Stats" width="460" />
@@ -134,8 +187,41 @@ object ShounakPatra {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShounakPatra&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="850" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShounakPatra&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="850" />
 </p>
+
+</div>
+
+---
+
+# 💭 Engineering Philosophy
+
+<div align="center">
+
+| Principle | Meaning |
+|-----------|---------|
+| 🔒 **Privacy First** | User data belongs on the user's device. No cloud logging. |
+| ⚡ **Native Performance** | C++/JNI and NPU hardware acceleration create better user experiences. |
+| 🤝 **Open Source** | Knowledge grows when shared cleanly in public repositories. |
+| 🎯 **Quality Over Quantity** | Focus on building fewer, high-impact products exceptionally well. |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ShounakPatra">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/ShounakPatra/Solus">
+  <img src="https://img.shields.io/badge/Solus-0EA5E9?style=for-the-badge&logo=android&logoColor=white" alt="Solus AI" />
+</a>
+<a href="https://github.com/ShounakPatra/vocex-run">
+  <img src="https://img.shields.io/badge/Vocex_Run-34C759?style=for-the-badge&logo=android&logoColor=white" alt="Vocex Run" />
+</a>
 
 </div>
 
@@ -143,10 +229,12 @@ object ShounakPatra {
 
 <div align="center">
 
-**"Building intelligent apps & interactive experiences — line by line."**
+## ⭐ Thanks for Visiting!
 
-<p>
-  <sub>Connect on <a href="https://github.com/ShounakPatra">GitHub</a> • Explore <a href="https://github.com/ShounakPatra/Solus">Solus</a> & <a href="https://github.com/ShounakPatra/vocex-run">Vocex-Run</a></sub>
-</p>
+*"Engineering isn't just about writing code—it's about solving meaningful problems elegantly."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Shounak%20Patra&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=On-Device%20AI%20%7C%20Android%20Systems%20Engineer%20%7C%20Native%20C%2B%2B%20%26%20Compose&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=7C3AED&text=Shounak%20Patra&fontSize=42&desc=On-Device%20AI%20%7C%20Android%20Systems%20Engineer&descAlignY=62" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -239,7 +239,12 @@ Architecting, developing, and deploying high-performance native Android applicat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShounakPatra&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Trophy-Open_Source_Developer-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Developer" />
+  <img src="https://img.shields.io/badge/Trophy-On--Device_AI_Architect-6D28D9?style=for-the-badge&logo=android&logoColor=white" alt="AI Architect" />
+  <img src="https://img.shields.io/badge/Trophy-Kotlin_%26_C%2B%2B_Specialist-5B21B6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Systems Engineer" />
+  <img src="https://img.shields.io/badge/Trophy-Audio_DSP_Innovator-4C1D95?style=for-the-badge&logo=android&logoColor=white" alt="DSP Innovator" />
+</p>
 
 </div>
 
@@ -315,6 +320,6 @@ Open To:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=7C3AED" width="100%" alt="Footer Banner" />
 
 </div>
